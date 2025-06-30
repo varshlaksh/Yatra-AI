@@ -1,0 +1,7 @@
+vendor_id,name,menu_type,cost_per_meal,capacity,location
+1,Annapurna Canteen,Satvik,60,200,Kedarnath
+2,Govindam Bhojanalay,North Indian Veg,80,150,Vaishno Devi
+3,Sai Bhojanalay,Simple Veg,50,250,Shirdi
+4,Shree Meals,Combo Thali,70,180,Tirupati
+5,Bhakti Rasoi,Temple Style Meal,40,300,Somnath
+6,Langar Hall,Community Meal,0,500,Golden Temple

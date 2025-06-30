@@ -1,0 +1,6 @@
+site_id,name,state,entry_fee,max_visitors,distance_km
+1,Kedarnath,Uttarakhand,0,10000,450
+2,Tirupati,Andhra Pradesh,30,50000,750
+3,Vaishno Devi,Jammu & Kashmir,10,20000,650
+4,Shirdi,Maharashtra,0,30000,300
+5,Golden Temple,Punjab,0,70000,500

@@ -1,0 +1,6 @@
+travel_id,mode,source,destination,rate_per_km,capacity
+1,Bus,Delhi,Kedarnath,18,40
+2,Train,Mumbai,Shirdi,2,500
+3,Bus,Jaipur,Vaishno Devi,15,30
+4,Train,Hyderabad,Tirupati,2.5,400
+5,Bus,Chandigarh,Golden Temple,10,35

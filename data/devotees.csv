@@ -1,0 +1,6 @@
+id,name,age,gender,health_issue,dietary_preference
+1,Ramesh,65,M,BP,Veg
+2,Seema,30,F,None,Veg
+3,Alok,42,M,Diabetes,Veg
+4,Meena,55,F,Asthma,Satvik
+5,Vijay,22,M,None,Veg
